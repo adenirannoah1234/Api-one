@@ -64,7 +64,7 @@ body{
 @media screen and (max-width: 992px){
     .main{
         width: 60%;
-        /* height: 70vh; */
+     /* height: 50vh;  */
     }
     
 }
@@ -94,7 +94,7 @@ body{
         padding: 40px;
     }
     .body{
-        font-size: 18px;
+        font-size: 20px;
     }
 }
 @media screen and (max-width: 375px){
